@@ -132,7 +132,7 @@ Activity Main XML
 
 ## OUTPUT:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82a65a2a-8e89-41ff-b150-48a091f26637" />
+<img width="1237" height="661" alt="image" src="https://github.com/user-attachments/assets/49a813fb-f9a9-4e02-94da-8ba9a9e27a71" />
 
 ## RESULT:
 Thus, the Android app for generating and tracking token numbers in a queue is developed and the output is verified. 
